@@ -1,0 +1,20 @@
+{
+  "name": "@bundle-of-tubes/paginator-example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "proof of concept for usage of @bundle-of-tubes/stateful-components Paginator",
+  "homepage": "https://github.com/bundle-of-tubes/promulgator-examples",
+  "license": "MIT",
+  "files": [],
+  "exports": [],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bundle-of-tubes/promulgator-examples"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@bundle-of-tubes/stateful-components": "file:../../stateful-components/bundle-of-tubes-stateful-components-0.0.1-refactor3.tgz"
+  }
+}
+

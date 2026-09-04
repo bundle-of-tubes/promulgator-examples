@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Pagination Example</title>
+    <script type="importmap">
+      {
+        "imports": {
+          "@bundle-of-tubes/stateful-components": "./modules/paginator.js",
+          "@bundle-of-tubes/state-promulgator": "./modules/promulgator.js"
+        }
+      }
+    </script>
+    <script type="module" src="/pagination-control.js"></script>
+    <script type="module" defer src="/script.js"></script>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <td colspan="2"><my-pagination-control id="paginator"></my-pagination-control></td>
+        </tr>
+        <tr>
+          <th>Index</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </body>
+</html>

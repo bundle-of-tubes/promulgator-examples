@@ -1,6 +1,6 @@
 {
   "name": "@bundle-of-tubes/promulgator-minimal-example",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "proof of concept for usage of @bundle-of-tubes/state-promulgator",
   "homepage": "https://github.com/bundle-of-tubes/promulgator-examples",
@@ -14,6 +14,6 @@
   },
   "scripts": {},
   "dependencies": {
-    "@bundle-of-tubes/state-promulgator": "file:../../state-promulgator"
+    "@bundle-of-tubes/state-promulgator": "0.0.1"
   }
 }

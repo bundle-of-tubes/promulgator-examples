@@ -1,6 +1,6 @@
 {
   "name": "@bundle-of-tubes/promulgator-tsminimal-example",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "proof of concept for usage of @bundle-of-tubes/state-promulgator",
   "homepage": "https://github.com/bundle-of-tubes/promulgator-examples",
@@ -17,7 +17,7 @@
     "start": "node dist/server.js"
   },
   "dependencies": {
-    "@bundle-of-tubes/state-promulgator": "file:../../state-promulgator/bundle-of-tubes-state-promulgator-0.0.1.tgz",
+    "@bundle-of-tubes/state-promulgator": "0.0.1",
     "typescript": "^7.0.2"
   }
 }

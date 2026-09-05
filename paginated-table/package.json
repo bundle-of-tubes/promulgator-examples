@@ -14,7 +14,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "@bundle-of-tubes/stateful-components": "file:../../stateful-components/bundle-of-tubes-stateful-components-0.0.1-refactor3.tgz"
+    "@bundle-of-tubes/stateful-components": "0.0.1"
   }
 }
 

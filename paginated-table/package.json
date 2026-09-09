@@ -1,6 +1,6 @@
 {
   "name": "@bundle-of-tubes/paginator-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "proof of concept for usage of @bundle-of-tubes/stateful-components Paginator",
   "homepage": "https://github.com/bundle-of-tubes/promulgator-examples",
@@ -14,7 +14,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "@bundle-of-tubes/stateful-components": "0.0.1"
+    "@bundle-of-tubes/stateful-components": "0.0.2"
   }
 }
 
